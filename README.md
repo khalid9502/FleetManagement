@@ -1,2 +1,2 @@
 # FleetManagement
-My first mini-project, Aconsole application that manages fleet information
+My first mini-project, A console application that manages fleet information
